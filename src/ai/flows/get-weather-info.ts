@@ -33,7 +33,7 @@ export const getWeatherInfo = ai.defineFlow(
   async ({ city }) => {
     const apiKey = process.env.WEATHER_API_KEY;
 
-    if (!apiKey || apiKey === 'YOUR_WEATHER_API_KEY' || apiKey === "AIzaSyD6hmR5DeEypYo19eq80PuZRHg2q3CwNqM") {
+    if (!apiKey || apiKey === 'YOUR_WEATHER_API_KEY') {
       console.error("Weather API key is not configured.");
       return {
         temperature: null,
