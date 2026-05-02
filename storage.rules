@@ -1,0 +1,17 @@
+
+rules_version = '2';
+
+service firebase.storage {
+  match /b/{bucket}/o {
+    // Allow authenticated users to write to the sos-recordings folder.
+    // The {userId} wildcard ensures a user can only upload to their own path.
+    match /sos-recordings/{userId}/{fileName} {
+      allow write: if request.auth != null && request.auth.uid == userId;
+    }
+
+    // Allow anyone to read the images uploaded for E-FIR reports.
+    match /e-fir-photos/{incidentId}/{fileName} {
+        allow read, write: if request.auth != null;
+    }
+  }
+}
