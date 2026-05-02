@@ -1,0 +1,55 @@
+# Settings to manage and configure a Firebase App Hosting backend.
+# https://firebase.google.com/docs/app-hosting/configure
+
+runConfig:
+  # Increase this value if you'd like to automatically spin up
+  # more instances in response to increased traffic.
+  maxInstances: 1
+env:
+  - variable: FIREBASE_STORAGE_BUCKET
+    value: "studio-8617476926-d49f3.firebasestorage.app"
+  
+  # TODO: Replace with your actual Twilio Account SID from the Twilio Console.
+  # This is required for the SOS voice call feature.
+  - variable: TWILIO_ACCOUNT_SID
+    value: "YOUR_TWILIO_ACCOUNT_SID"
+
+  # TODO: Replace with your actual Twilio Auth Token from the Twilio Console.
+  # This is required for the SOS voice call feature.
+  - variable: TWILIO_AUTH_TOKEN
+    value: "YOUR_TWILIO_AUTH_TOKEN"
+
+  # TODO: Replace with your actual Twilio Phone Number that you have purchased.
+  # This is required for the SOS voice call feature.
+  - variable: TWILIO_PHONE_NUMBER
+    value: "YOUR_TWILIO_PHONE_NUMBER"
+
+  # TODO: Replace with your actual Resend API Key from your Resend account.
+  # This is required for the SOS email feature.
+  - variable: RESEND_API_KEY
+    value: "YOUR_RESEND_API_KEY"
+
+  # This is the default "From" email address for Resend testing.
+  # For the email feature to work, you must use this address unless you verify your own domain with Resend.
+  - variable: RESEND_FROM_EMAIL
+    value: "onboarding@resend.dev"
+
+  # TODO: (Optional) Replace with your VAPID keys for community push notifications.
+  # Leaving these as placeholders will not break the app, but community alerts will not work.
+  - variable: NEXT_PUBLIC_VAPID_PUBLIC_KEY
+    value: "YOUR_NEXT_PUBLIC_VAPID_PUBLIC_KEY"
+  - variable: VAPID_PRIVATE_KEY
+    value: "YOUR_VAPID_PRIVATE_KEY"
+
+  # Your Google Maps API Key is now configured.
+  - variable: NEXT_PUBLIC_GOOGLE_MAPS_API_KEY
+    value: "AIzaSyD6hmR5DeEypYo19eq80PuZRHg2q3CwNqM"
+  
+  # TODO: Replace with your actual Weather API Key.
+  - variable: WEATHER_API_KEY
+    value: "AIzaSyD6hmR5DeEypYo19eq80PuZRHg2q3CwNqM"
+
+  # Your Firebase Project's API Key.
+  # This is required for the application to connect to Firebase services.
+  - variable: NEXT_PUBLIC_FIREBASE_API_KEY
+    value: "AIzaSyByVa6fKNdwd47QA4i1HIAkCRo7yVF_A5Q"
