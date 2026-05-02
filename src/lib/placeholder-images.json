@@ -1,0 +1,76 @@
+{
+  "placeholderImages": [
+    {
+      "id": "avatar-1",
+      "description": "Avatar of a person",
+      "imageUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTg2OTE2MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar-2",
+      "description": "Avatar of a person",
+      "imageUrl": "https://images.unsplash.com/photo-1590086782792-42dd2350140d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTg2OTE2MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar-3",
+      "description": "Avatar of a person",
+      "imageUrl": "https://images.unsplash.com/photo-1590086782792-42dd2350140d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTg2OTE2MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar-4",
+      "description": "Avatar of a person",
+      "imageUrl": "https://images.unsplash.com/photo-1535643302794-19c3804b874b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTg2OTE2MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar-5",
+      "description": "Avatar of a person",
+      "imageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTg2OTE2MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "food-default",
+      "description": "Default food placeholder",
+      "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmb29kfGVufDB8fHx8MTc1ODcyMTE1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food"
+    },
+    {
+      "id": "food-biryani",
+      "description": "Image of Biryani",
+      "imageUrl": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxiaXJ5YW5pfGVufDB8fHx8MTc1ODY4MzU3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "biryani"
+    },
+    {
+      "id": "food-dosa",
+      "description": "Image of a Dosa",
+      "imageUrl": "https://images.unsplash.com/photo-1665660710687-b44c50751054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkb3NhfGVufDB8fHx8MTc1ODczNTY4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dosa"
+    },
+    {
+      "id": "food-curry",
+      "description": "Image of a curry dish",
+      "imageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjdXJyeXxlbnwwfHx8fDE3NTg3MzU2ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "curry"
+    },
+    {
+      "id": "food-sweets",
+      "description": "Image of Indian sweets",
+      "imageUrl": "https://images.unsplash.com/photo-1611101744813-3680659522d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzd2VldHMlMjBkZXNzZXJ0fGVufDB8fHx8MTc1ODczNTY4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sweets dessert"
+    },
+    {
+      "id": "food-chaat",
+      "description": "Image of Chaat",
+      "imageUrl": "https://images.unsplash.com/photo-1729591593239-a83e3abbae61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjaGFhdCUyMHN0cmVldHxlbnwwfHx8fDE3NTg3MzU2ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chaat street"
+    },
+    {
+      "id": "food-thali",
+      "description": "Image of an Indian thali",
+      "imageUrl": "https://images.unsplash.com/photo-1732382642488-b5cc395e685c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx0aGFsaSUyMG1lYWx8ZW58MHx8fHwxNzU4NzM1Njg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "thali meal"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+
+[
+  {
+    "key": "cuts_and_scrapes",
+    "title": "Minor Cuts and Scrapes",
+    "importantNote": "For deep cuts or bleeding that doesn't stop, seek medical help immediately.",
+    "steps": [
+      "Wash your hands with soap and water.",
+      "Gently clean the wound with cool water and mild soap. Avoid using hydrogen peroxide or iodine, which can damage tissue.",
+      "Apply direct pressure with a clean cloth or bandage to stop any bleeding.",
+      "Apply a thin layer of antibiotic ointment (like Neosporin or Polysporin) to keep the surface moist and prevent infection.",
+      "Cover the wound with a sterile bandage or gauze. Change the dressing daily or if it becomes wet or dirty."
+    ]
+  },
+  {
+    "key": "first_degree_burns",
+    "title": "First-Degree Burns",
+    "importantNote": "For severe burns (large area, deep, or on the face/hands/feet/genitals), call emergency services immediately.",
+    "steps": [
+      "Immediately cool the burn by holding it under cool (not cold) running water for 10-15 minutes, or until the pain subsides.",
+      "Gently pat the area dry with a clean cloth. Do not rub.",
+      "Apply a moisturizer, such as a lotion with aloe vera, to soothe the skin. Do not apply ointments, butter, or oil.",
+      "Cover the burn with a sterile, non-stick bandage. Do not use fluffy cotton.",
+      "If needed, take an over-the-counter pain reliever like ibuprofen (Advil) or acetaminophen (Tylenol)."
+    ]
+  },
+  {
+    "key": "sprains",
+    "title": "Sprains",
+    "importantNote": "If you hear a 'pop', cannot move the joint, or have numbness, see a doctor.",
+    "steps": [
+      "Rest the injured limb. Avoid activities that cause pain or swelling.",
+      "Ice the area for 15-20 minutes every 2-3 hours for the first 48 hours to reduce swelling and pain.",
+      "Compress the area with an elastic bandage (like an ACE bandage) to help limit swelling. Don't wrap it too tightly.",
+      "Elevate the injured limb above the level of your heart, especially at night, to allow gravity to help reduce swelling."
+    ]
+  },
+  {
+    "key": "insect_bites",
+    "title": "Insect Bites and Stings",
+    "importantNote": "If you have difficulty breathing, swelling of the face/throat, or dizziness, it's an emergency. Call for help immediately.",
+    "steps": [
+      "If the stinger is still in the skin, gently scrape it off horizontally with a credit card or fingernail. Do not use tweezers, as this can squeeze more venom into the skin.",
+      "Wash the area with soap and water.",
+      "Apply a cold pack or cloth filled with ice to reduce pain and swelling.",
+      "Apply a hydrocortisone cream, calamine lotion, or a baking soda paste to the bite or sting several times daily to relieve itching.",
+      "Take an antihistamine like Benadryl to help reduce itching and swelling."
+    ]
+  },
+  {
+    "key": "nosebleeds",
+    "title": "Nosebleeds",
+    "importantNote": "If the bleeding doesn't stop after 20 minutes, or if it was caused by a serious injury, seek medical attention.",
+    "steps": [
+      "Sit upright and lean forward slightly. This prevents blood from flowing down your throat.",
+      "Do not tilt your head back.",
+      "Pinch the soft part of your nose, just below the bony bridge, using your thumb and index finger. Pinch both nostrils closed.",
+      "Hold the pinch continuously for 10-15 minutes. Breathe through your mouth.",
+      "After 15 minutes, release the pressure and check if bleeding has stopped. If not, pinch for another 10 minutes. An ice pack on the bridge of the nose can also help."
+    ]
+  },
+  {
+    "key": "choking",
+    "title": "Choking",
+    "importantNote": "If the person is coughing or can speak, let them continue to cough. If they cannot breathe, cough, or speak, perform the Heimlich maneuver.",
+    "steps": [
+      "Stand behind the person. Wrap your arms around their waist.",
+      "Make a fist with one hand. Place the thumb side of your fist just above the person's navel, well below the breastbone.",
+      "Grasp your fist with your other hand. Give a quick, upward thrust into the abdomen.",
+      "Repeat the abdominal thrusts until the object is expelled or the person becomes unconscious.",
+      "If the person becomes unconscious, carefully lower them to the floor and start CPR."
+    ]
+  },
+  {
+    "key": "cardiac_arrest_cpr",
+    "title": "Cardiac Arrest (Basic CPR)",
+    "importantNote": "This is a life-threatening emergency. Call for help immediately, then start CPR.",
+    "steps": [
+      "Check for responsiveness. Tap the person's shoulder and shout, 'Are you okay?' Check for breathing.",
+      "If there is no response and no breathing (or only gasping), call your local emergency number immediately and have someone get an AED (Automated External Defibrillator) if available.",
+      "Place the heel of one hand on the center of the person's chest. Place your other hand on top and interlock your fingers.",
+      "Begin chest compressions. Push hard and fast at a rate of 100-120 compressions per minute. Let the chest rise completely between compressions.",
+      "Continue compressions until the person shows signs of life, an AED is ready to use, or medical personnel take over."
+    ]
+  },
+  {
+    "key": "fainting",
+    "title": "Fainting",
+    "importantNote": "Call a doctor if the person is pregnant, diabetic, has a head injury, or doesn't regain consciousness within a minute.",
+    "steps": [
+      "Position the person on their back. If they are breathing, raise their legs about 12 inches (30 cm) above heart level to restore blood flow to the brain.",
+      "Loosen any tight clothing, such as belts, collars, or ties.",
+      "Check for breathing. If they aren't breathing, call for emergency help and begin CPR.",
+      "If the person has vomited, turn them onto their side to prevent choking.",
+      "Once conscious, don't let them get up too quickly. Help them sit up slowly. If fainting symptoms return, have them lie down again."
+    ]
+  },
+  {
+    "key": "seizure",
+    "title": "Seizure",
+    "importantNote": "Call emergency services if the seizure lasts more than 5 minutes, if another seizure begins soon after, if the person has trouble breathing, or is injured.",
+    "steps": [
+      "Ease the person to the floor and gently turn them onto one side. This helps them breathe.",
+      "Clear the area of any hard or sharp objects to prevent injury.",
+      "Place something soft and flat, like a folded jacket, under their head.",
+      "Do NOT hold the person down or try to stop their movements.",
+      "Do NOT put anything in their mouth. Stay with them until the seizure ends and they are fully awake."
+    ]
+  },
+  {
+    "key": "severe_bleeding",
+    "title": "Severe Bleeding",
+    "importantNote": "This is a life-threatening emergency. Call for help immediately while performing first aid.",
+    "steps": [
+      "While waiting for help, apply firm, direct pressure to the wound with a clean cloth, bandage, or your hands.",
+      "If possible, raise the injured part above the level of the heart.",
+      "Do not remove any objects that are deeply embedded in the wound. Apply pressure around the object, not directly on it.",
+      "If blood soaks through the bandage, do not remove it. Add more cloth or bandages on top and continue to apply pressure.",
+      "If a tourniquet is necessary and you are trained to use one, apply it. Note the time it was applied."
+    ]
+  },
+  {
+    "key": "heatstroke",
+    "title": "Heatstroke",
+    "importantNote": "Heatstroke is a medical emergency. Call for help immediately while you begin cooling measures.",
+    "steps": [
+      "Move the person to a cooler place, out of direct sunlight.",
+      "Remove unnecessary clothing.",
+      "Cool the person's entire body by any means. Use cool water (e.g., from a shower, garden hose, or by sponging) on their skin.",
+      "Apply ice packs or cold compresses to the neck, armpits, and groin, where large blood vessels are close to the skin.",
+      "Do NOT give the person anything to drink. Wait for medical help to arrive."
+    ]
+  },
+  {
+    "key": "suspected_fracture",
+    "title": "Suspected Broken Bone (Fracture)",
+    "importantNote": "If the bone has broken through the skin, it is a medical emergency. Call for help. Do not try to realign the bone.",
+    "steps": [
+      "Stop any bleeding by applying pressure to the wound with a sterile bandage or clean cloth.",
+      "Immobilize the injured area. Do not try to realign the bone or push a bone that's sticking out back in.",
+      "If you're trained, create a splint by placing it on the area above and below the fracture. You can use rolled-up newspapers or pieces of wood.",
+      "Apply ice packs to limit swelling and help relieve pain. Do not apply ice directly to the skin; wrap it in a cloth.",
+      "Keep the person from moving and treat for shock if necessary (e.g., have them lie down with their head slightly lower than their body and elevate their legs)."
+    ]
+  }
+]
